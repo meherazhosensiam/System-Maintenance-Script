@@ -27,7 +27,7 @@
 
 ## 🎯 About
 
-This Bash script automatically updates your Linux system and cleans temporary and unnecessary files. Designed for **simplicity, transparency, and maintainability (STM)**, it allows you to keep your system optimized with just one command.
+This Bash script automatically updates your Linux system and cleans temporary and unnecessary files. Designed for simplicity, transparency, and maintainability (STM), it allows you to keep your system optimized with just one command.
 
 ### Key Highlights:
 - 🔄 Updates package lists & upgrades installed packages
@@ -42,11 +42,11 @@ This Bash script automatically updates your Linux system and cleans temporary an
 
 | Feature | Description |
 |---------|-------------|
-| 🔄 **System Update** | Updates package lists & upgrades installed packages automatically |
-| 🗑️ **Autoremove** | Removes unnecessary packages and dependencies |
-| 🧹 **Cache Cleanup** | Cleans package cache to free disk space |
-| 🗂️ **Temp Cleanup** | Deletes `/tmp` & `/var/tmp` files safely |
-| ⚡ **One-command Use** | Run the script with a single command |
+| 🔄 System Update | Updates package lists & upgrades installed packages automatically |
+| 🗑️ Autoremove** | Removes unnecessary packages and dependencies |
+| 🧹 Cache Cleanup | Cleans package cache to free disk space |
+| 🗂️ Temp Cleanup| Deletes `/tmp` & `/var/tmp` files safely |
+| ⚡ One-command Use** | Run the script with a single command |
 
 ---
 
